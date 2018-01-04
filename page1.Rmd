@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-# Interactive Plot
+## Interactive Plot
 
 Speed vs. Distance
 
