@@ -5,12 +5,12 @@ title: "My Important Site"
 left:
     - text: "About"
       icon: fa-database
-      href: http://dsi.ucdavis.edu
+      href: http://example.com
       
 right:
     - text: "Report"
-      icon: fa-info-circle
-      href: page1.html
+    icon: fa-info-circle
+    href: syllabus.html
 
 output:
     html_document:
