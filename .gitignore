@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#on mac this is hidden file, ignore it.
+.DS_Store
