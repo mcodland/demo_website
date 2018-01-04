@@ -9,8 +9,8 @@ left:
       
 right:
     - text: "Report"
-    icon: fa-info-circle
-    href: page1.html
+      icon: fa-info-circle
+      href: page1.html
 
 output:
     html_document:
