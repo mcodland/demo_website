@@ -9,14 +9,14 @@ left:
       
 right:
     - text: "Report"
-    icon: fa-info-circle
-    href: syllabus.html
+      icon: fa-info-circle
+      href: syllabus.html
 
 output:
     html_document:
     theme: yeti
-        highlight: tango
-        
+      highlight: tango
+      
 navbar:
   left:
     - text: "Home"
